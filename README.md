@@ -1,6 +1,6 @@
 # PatikaClone
 
-This project is a simple desktop clone of www.patika.com.
+This project is a simple desktop clone of patika.dev
 
 # Used Technologies
 - Java
